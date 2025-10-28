@@ -1,10 +1,12 @@
+![Screenshot of MJLFO v2.0 running on Windows 10](https://github.com/xFellern/MJLFO/blob/2185049ed330471ea4cee689253b0fca28c3316e/MJLFO.png)
+
 Minecraft Java Log File Organizer (MJLFO)
 
 Welcome everyone to my first public project!
 Recently I wanted to check old chats from my Minecraft: Java Edition .log files, but it was pretty difficult to read it all, and it was often very messy.
 
-So I decided to make a small program, which can generate way cleaner log files: it makes only the chat messages stay, and removes additional useless text or most in-game text formatting cases (which make log files even more cluttered).
-You can also choose to remove or to display only the lines with a particular string (or strings). I really liked the final effect, and I decided to share it with everyone (cause why not?).
+So I decided to make a small program, which can generate way cleaner log files: it makes only the chat messages stay, and removes additional useless text or in-game text formatting cases (which make log files even more cluttered).
+You can also choose to keep only or remove the lines with particular strings, or also remove those strings while keeping the lines. I really liked the final effect, and I decided to share it with everyone (cause why not?).
 
 If you'd like to modify or update the program, for yourself, a closed group, or the public - feel free to do so! MJLFO is distributed under GNU GPL v3.0 license.
 As I hardly ever use GitHub, I doubt I'd answer to any issues or pull requests. But you still can post them - maybe someone else would help you.
