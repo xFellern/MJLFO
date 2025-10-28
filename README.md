@@ -9,6 +9,7 @@ So I decided to make a small program, which can generate way cleaner log files: 
 You can also choose to keep only or remove the lines with particular strings, or also remove those strings while keeping the lines. I really liked the final effect, and I decided to share it with everyone (cause why not?).
 
 If you'd like to modify or update the program, for yourself, a closed group, or the public - feel free to do so! MJLFO is distributed under GNU GPL v3.0 license.
+The program comes with absolutely no warranty. I'm not responsible for any damage that however and for whatever reason my program could be blamed for.
 As I hardly ever use GitHub, I doubt I'd answer to any issues or pull requests. But you still can post them - maybe someone else would help you.
 Because I'm so rarely there, if you'd like to share your version of MJLFO, you'd better make a repository yourself and put it there, I don't mind it. You just have to mention me as the original author.
 
