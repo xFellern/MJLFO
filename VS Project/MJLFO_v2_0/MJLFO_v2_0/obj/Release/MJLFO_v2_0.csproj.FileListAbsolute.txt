@@ -1,0 +1,30 @@
+C:\Users\Bartek\Documents\Visual Studio 2010\Projects\MJLFO_v2_0\MJLFO_v2_0\bin\Release\MJLFO v2.0.exe.config
+C:\Users\Bartek\Documents\Visual Studio 2010\Projects\MJLFO_v2_0\MJLFO_v2_0\bin\Release\MJLFO v2.0.exe
+C:\Users\Bartek\Documents\Visual Studio 2010\Projects\MJLFO_v2_0\MJLFO_v2_0\bin\Release\MJLFO v2.0.pdb
+C:\Users\Bartek\Documents\Visual Studio 2010\Projects\MJLFO_v2_0\MJLFO_v2_0\obj\Release\MJLFO_v2_0.MJLFO_v2_0.resources
+C:\Users\Bartek\Documents\Visual Studio 2010\Projects\MJLFO_v2_0\MJLFO_v2_0\obj\Release\MJLFO_v2_0.Properties.Resources.resources
+C:\Users\Bartek\Documents\Visual Studio 2010\Projects\MJLFO_v2_0\MJLFO_v2_0\obj\Release\MJLFO_v2_0.csproj.GenerateResource.Cache
+C:\Users\Bartek\Documents\Visual Studio 2010\Projects\MJLFO_v2_0\MJLFO_v2_0\obj\Release\MJLFO v2.0.exe
+C:\Users\Bartek\Documents\Visual Studio 2010\Projects\MJLFO_v2_0\MJLFO_v2_0\obj\Release\MJLFO v2.0.pdb
+C:\Users\Bartek\Documents\Visual Studio 2010\Projects\MJLFO_v2_0\MJLFO_v2_0\obj\Release\MJLFO_v2_0.csprojResolveAssemblyReference.cache
+C:\Users\11user\Desktop\MJLFO_v2_0\MJLFO_v2_0\bin\Release\MJLFO v2.0.exe.config
+C:\Users\11user\Desktop\MJLFO_v2_0\MJLFO_v2_0\bin\Release\MJLFO v2.0.exe
+C:\Users\11user\Desktop\MJLFO_v2_0\MJLFO_v2_0\bin\Release\MJLFO v2.0.pdb
+C:\Users\11user\Desktop\MJLFO_v2_0\MJLFO_v2_0\obj\Release\MJLFO_v2_0.csproj.AssemblyReference.cache
+C:\Users\11user\Desktop\MJLFO_v2_0\MJLFO_v2_0\obj\Release\MJLFO_v2_0.MJLFO_v2_0.resources
+C:\Users\11user\Desktop\MJLFO_v2_0\MJLFO_v2_0\obj\Release\MJLFO_v2_0.Properties.Resources.resources
+C:\Users\11user\Desktop\MJLFO_v2_0\MJLFO_v2_0\obj\Release\MJLFO_v2_0.csproj.GenerateResource.cache
+C:\Users\11user\Desktop\MJLFO_v2_0\MJLFO_v2_0\obj\Release\MJLFO_v2_0.csproj.CoreCompileInputs.cache
+C:\Users\11user\Desktop\MJLFO_v2_0\MJLFO_v2_0\obj\Release\MJLFO v2.0.exe
+C:\Users\11user\Desktop\MJLFO_v2_0\MJLFO_v2_0\obj\Release\MJLFO v2.0.pdb
+C:\Users\11user\Desktop\MJLFO_v2_0\MJLFO_v2_0\obj\Release\MJLFO_v2_0.MJLFO_v2_0_SP.resources
+C:\Users\11user\Desktop\MJLFO_v2_0 — kopia\MJLFO_v2_0\bin\Release\MJLFO v2.0.exe.config
+C:\Users\11user\Desktop\MJLFO_v2_0 — kopia\MJLFO_v2_0\obj\Release\MJLFO v2.0.exe
+C:\Users\11user\Desktop\MJLFO_v2_0 — kopia\MJLFO_v2_0\obj\Release\MJLFO v2.0.pdb
+C:\Users\11user\Desktop\MJLFO_v2_0 — kopia\MJLFO_v2_0\bin\Release\MJLFO v2.0.exe
+C:\Users\11user\Desktop\MJLFO_v2_0 — kopia\MJLFO_v2_0\bin\Release\MJLFO v2.0.pdb
+C:\Users\11user\Desktop\MJLFO_v2_0 — kopia\MJLFO_v2_0\obj\Release\MJLFO_v2_0.csprojResolveAssemblyReference.cache
+C:\Users\11user\Desktop\MJLFO_v2_0 — kopia\MJLFO_v2_0\obj\Release\MJLFO_v2_0.MJLFO_v2_0.resources
+C:\Users\11user\Desktop\MJLFO_v2_0 — kopia\MJLFO_v2_0\obj\Release\MJLFO_v2_0.MJLFO_v2_0_SP.resources
+C:\Users\11user\Desktop\MJLFO_v2_0 — kopia\MJLFO_v2_0\obj\Release\MJLFO_v2_0.Properties.Resources.resources
+C:\Users\11user\Desktop\MJLFO_v2_0 — kopia\MJLFO_v2_0\obj\Release\MJLFO_v2_0.csproj.GenerateResource.Cache
